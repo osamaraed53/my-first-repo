@@ -13,11 +13,11 @@ Helpful Resource
 - somthing
     - somthing 
 
-'''python
+```python
 print("osama alnobani")
-'''
+```
 
-$\sum_{k=1}^n(x(x-1)/x)
+$ \sum_{k=1}^n(x(x-1)/x)
 
 
 [1]:https://github.com/osamaraed53/my-first-repo.git
