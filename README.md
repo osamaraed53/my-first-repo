@@ -17,7 +17,8 @@ Helpful Resource
 print("osama alnobani")
 ```
 
-$ \sum_{k=1}^n(x(x-1)/x)
-
+$$
+\sum_{k=1}^n(x(x-1) \cdot 1/x) = \sum_{k=1}^n(x-1)
+$$
 
 [1]:https://github.com/osamaraed53/my-first-repo.git
